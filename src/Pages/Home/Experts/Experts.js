@@ -17,7 +17,7 @@ const Experts = () => {
     { id: 6, name: "Stachy Jhonson", img: expert6 },
   ];
   return (
-    <div className="container">
+    <div className="container" id="expert">
       <h2 className="text-primary text-center pt-5">our Experts</h2>
       <div className="row">{
           experts.map(expert=> <Expert
