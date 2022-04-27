@@ -1,0 +1,14 @@
+[debug] [2022-04-27T10:46:30.540Z] ----------------------------------------------------------------------
+[debug] [2022-04-27T10:46:30.542Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\User\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2022-04-27T10:46:30.543Z] CLI Version:   10.6.0
+[debug] [2022-04-27T10:46:30.543Z] Platform:      win32
+[debug] [2022-04-27T10:46:30.543Z] Node Version:  v16.13.1
+[debug] [2022-04-27T10:46:30.545Z] Time:          Wed Apr 27 2022 16:46:30 GMT+0600 (Bangladesh Standard Time)
+[debug] [2022-04-27T10:46:30.545Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-04-27T10:46:30.632Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-04-27T10:46:30.632Z] > authorizing via signed-in user (mohammudrifat019@gmail.com)
+[debug] [2022-04-27T10:46:30.633Z] [iam] checking project genius-car-services-bdea5 for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2022-04-27T10:46:30.635Z] > refreshing access token with scopes: []
+[debug] [2022-04-27T10:46:30.636Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
